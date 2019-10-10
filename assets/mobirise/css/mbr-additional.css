@@ -1392,55 +1392,6 @@ section.lazy-placeholder:after {
     margin: auto;
   }
 }
-.cid-rEx91qIfTZ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rEx91qIfTZ .carousel-item {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rEx91qIfTZ .carousel-item.active,
-.cid-rEx91qIfTZ .carousel-item-next,
-.cid-rEx91qIfTZ .carousel-item-prev {
-  display: flex;
-}
-.cid-rEx91qIfTZ .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-rEx91qIfTZ .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-rEx91qIfTZ .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-rEx91qIfTZ .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-rEx91qIfTZ .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-@media (max-width: 230px) {
-  .cid-rEx91qIfTZ .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
 .cid-rExcklzXSg {
   padding-top: 30px;
   padding-bottom: 30px;
